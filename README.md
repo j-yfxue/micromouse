@@ -1,9 +1,3 @@
-Acknowledgements:
-
-Developed by Christina Karagianis, Abby Mathieu, and [Yifeng Xue(https://github.com/j-yfxue)]
-
-
-
 Componenets:
 
 2WD miniQ Robot Chassis https://www.dfrobot.com/product-367.html
@@ -30,4 +24,11 @@ The robot is limited by the IR sensors. The original plan was to use three IR se
 
 Reference:
 
-The search alogorithm was tested 
+The search alogorithm was tested using this simulator: https://github.com/mackorone/mms?tab=readme-ov-file
+
+
+Acknowledgements:
+
+Developed by Christina Karagianis, Abby Mathieu, and Yifeng Xue (https://github.com/j-yfxue)
+
+Senior Design Report: https://docs.google.com/document/d/1eB9g1LCVUFNQIfvklPDIRrS_rpDlfjf1XYIzxSF4wa8/edit?usp=sharing
