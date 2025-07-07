@@ -1,5 +1,7 @@
 Acknowledgements:
+
 This was a senior project that was done at the University of New Hampshire by Christina Karagianis, Abby Mathieu, and Yifeng Xue.
+
 
 Componenets:
 
@@ -12,6 +14,16 @@ NUCLEO-F446RE
 L298N
 
 LSM6DSOX Gyro and accelerometer  https://www.adafruit.com/product/4438?srsltid=AfmBOopEDnr-NoMDJTALgeg2A_9HXfCZseXL8RcEJNjc3BZC9T981ppC
+
 IR sensor
 
+
+Demo: 
+
 This code was tested in a 3x3 maze with each of the blocks being 26cm x 26cm
+
+Link to Demo:
+https://www.youtube.com/watch?v=hlFdUKvN9es
+
+The robot is limited by the IR sensors. The original plan was to use three IR sensors to detect the presence of walls. However, due to the limited detection range of the sensors we used, the side sensors failed to function most of the time. They are disabled when the demo was done. As a result, only the front IR sensor was used in the demo, though it still occasionally failed.
+
