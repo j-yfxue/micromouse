@@ -13,6 +13,8 @@ Componenets:
   IR sensor
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Demo: 
 
@@ -22,6 +24,10 @@ Demo:
   https://www.youtube.com/watch?v=hlFdUKvN9es
 
   The robot is limited by the IR sensors. The original plan was to use three IR sensors to detect the presence of walls. However, due to the limited detection range of the sensors we used, the side   sensors failed to function most of the time. They are disabled when the demo was done. As a result, only the front IR sensor was used in the demo, though it still occasionally failed.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Reference:
 
