@@ -13,6 +13,7 @@ Componenets:
   IR sensor
 
 
+
 Demo: 
 
   This code was tested in a 3x3 maze with each of the blocks being 26cm x 26cm
@@ -25,6 +26,7 @@ Demo:
 Reference:
 
   The search alogorithm was tested using this simulator: https://github.com/mackorone/mms?tab=readme-ov-file
+
 
 
 Acknowledgements:
