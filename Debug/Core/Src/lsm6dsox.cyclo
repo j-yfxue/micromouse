@@ -1,0 +1,11 @@
+../Core/Src/lsm6dsox.c:21:19:lsm6dsox_init	4
+../Core/Src/lsm6dsox.c:44:6:lsm6dsox_data_available	1
+../Core/Src/lsm6dsox.c:48:19:lsm6dsox_read	2
+../Core/Src/lsm6dsox.c:54:19:lsm6dsox_write	1
+../Core/Src/lsm6dsox.c:62:7:getAX	1
+../Core/Src/lsm6dsox.c:72:7:getAY	1
+../Core/Src/lsm6dsox.c:83:7:getAZ	1
+../Core/Src/lsm6dsox.c:93:7:getGX_dps	1
+../Core/Src/lsm6dsox.c:101:7:getGY_dps	1
+../Core/Src/lsm6dsox.c:109:7:getGZ_dps	1
+../Core/Src/lsm6dsox.c:117:7:wrap_angle	3

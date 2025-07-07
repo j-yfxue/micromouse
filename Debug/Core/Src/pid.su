@@ -1,0 +1,4 @@
+../Core/Src/pid.c:5:6:PID_Init	32	static
+../Core/Src/pid.c:16:6:PID_Update	32	static
+../Core/Src/pid.c:35:6:Motor_SetPWM	32	static
+../Core/Src/pid.c:49:6:Motor_SetMotorPWM	24	static

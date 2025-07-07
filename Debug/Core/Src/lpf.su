@@ -1,0 +1,2 @@
+../Core/Src/lpf.c:4:10:calculate_lpf_coefficients	88	static
+../Core/Src/lpf.c:49:7:lpf_process	48	static
