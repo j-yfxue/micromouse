@@ -53,7 +53,7 @@ Reference:
 
 Acknowledgements:
 
-  Developed by Christina Karagianis, Abby Mathieu, and Yifeng Xue (https://github.com/j-yfxue)
+  Developed by Christina Karagianis, Abby Mathieu, and Jason Xue (https://github.com/j-yfxue)
 
   Advisors: Professor Se Young Yoon and Professor MD Shaad Mahmud
 
